@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter)
 
-### :octocat: [New-Leaf](https://github.com/Nupur-Gudigar/New-Leaf)
-![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/816072591/large/year.png)
+### :octocat: [Heart-Screen](https://github.com/Nupur-Gudigar/Heart-Screen)
+![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1025119047/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>6</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>25</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/7/29 6:11 PM UTC</i></small>
+<small><i>Last updated on 2025/7/29 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/816072591/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/816072591/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1025119047/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1025119047/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/816072591/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/816072591/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1025119047/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1025119047/week.md)
 ```
 ### Header
-# New-Leaf [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/816072591/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/816072591/year.md)
+# Heart-Screen [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1025119047/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1025119047/year.md)
 ```readme
-# New-Leaf [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/816072591/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/816072591/year.md)
+# Heart-Screen [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1025119047/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1025119047/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
