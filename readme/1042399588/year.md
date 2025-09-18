@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter)
 
-### :octocat: [t-rex-runner](https://github.com/Nupur-Gudigar/t-rex-runner)
-![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/954031080/large/year.png)
+### :octocat: [Kirby_Visualizer](https://github.com/Nupur-Gudigar/Kirby_Visualizer)
+![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1042399588/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -89,10 +89,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/954031080/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/954031080/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1042399588/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1042399588/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/954031080/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/954031080/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1042399588/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1042399588/week.md)
 ```
 ### Header
-# t-rex-runner [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/954031080/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/954031080/year.md)
+# Kirby_Visualizer [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1042399588/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1042399588/year.md)
 ```readme
-# t-rex-runner [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/954031080/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/954031080/year.md)
+# Kirby_Visualizer [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1042399588/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1042399588/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

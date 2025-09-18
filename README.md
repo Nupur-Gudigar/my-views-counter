@@ -195,9 +195,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/955546787/small/year.png" height="20"> 17
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1042399588/year.md">
+				Kirby_Visualizer
+			</a>
+		</td>
+		<td>
+			2025/9/15 6:44 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1042399588/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1056903679/year.md">
+				notion-widget
+			</a>
+		</td>
+		<td>
+			2025/9/15 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1056903679/small/year.png" height="20"> 36
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/9/18 6:22 AM UTC</i></small>
+<small><i>Last updated on 2025/9/18 6:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
