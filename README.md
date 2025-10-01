@@ -227,9 +227,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1056903679/small/year.png" height="20"> 42
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1067486548/year.md">
+				Spintember
+			</a>
+		</td>
+		<td>
+			2025/9/28 4:03 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1067486548/small/year.png" height="20"> 14
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/10/1 1:16 AM UTC</i></small>
+<small><i>Last updated on 2025/10/1 4:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

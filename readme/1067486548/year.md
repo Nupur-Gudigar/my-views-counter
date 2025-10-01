@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter)
 
-### :octocat: [test-repository](https://github.com/Nupur-Gudigar/test-repository)
-![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/952027651/large/year.png)
+### :octocat: [Spintember](https://github.com/Nupur-Gudigar/Spintember)
+![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1067486548/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>37</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -153,18 +153,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/10/1 4:02 AM UTC</i></small>
+<small><i>Last updated on 2025/10/1 4:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/952027651/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/952027651/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1067486548/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1067486548/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/952027651/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/952027651/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1067486548/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1067486548/week.md)
 ```
 ### Header
-# test-repository [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/952027651/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/952027651/year.md)
+# Spintember [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1067486548/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1067486548/year.md)
 ```readme
-# test-repository [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/952027651/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/952027651/year.md)
+# Spintember [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1067486548/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1067486548/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
