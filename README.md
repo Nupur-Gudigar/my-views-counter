@@ -197,6 +197,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1042399588/year.md">
+				Kirby_Visualizer
+			</a>
+		</td>
+		<td>
+			2026/2/10 12:00 AM UTC
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1042399588/small/year.png" height="20"> 45
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1056903679/year.md">
 				notion-widget
 			</a>
@@ -229,7 +245,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/12 1:51 AM UTC</i></small>
+<small><i>Last updated on 2026/2/12 6:57 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
