@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter)
 
-### :octocat: [github-chapter-2-sandbox](https://github.com/Nupur-Gudigar/github-chapter-2-sandbox)
-![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/953493884/large/year.png)
+### :octocat: [olympic-skating-analysis](https://github.com/Nupur-Gudigar/olympic-skating-analysis)
+![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1169563951/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2026/3/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>10</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>149</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2026/2/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>101</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2025/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>62</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/3/2 6:21 AM UTC</i></small>
+<small><i>Last updated on 2026/3/2 6:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/953493884/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/953493884/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1169563951/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1169563951/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/953493884/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/953493884/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1169563951/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1169563951/week.md)
 ```
 ### Header
-# github-chapter-2-sandbox [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/953493884/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/953493884/year.md)
+# olympic-skating-analysis [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1169563951/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1169563951/year.md)
 ```readme
-# github-chapter-2-sandbox [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/953493884/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/953493884/year.md)
+# olympic-skating-analysis [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1169563951/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1169563951/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
