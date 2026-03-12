@@ -133,6 +133,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/954031080/year.md">
+				t-rex-runner
+			</a>
+		</td>
+		<td>
+			2026/3/10 1:29 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/954031080/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/953493884/year.md">
 				github-chapter-2-sandbox
 			</a>
@@ -245,7 +261,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/12 1:30 AM UTC</i></small>
+<small><i>Last updated on 2026/3/12 6:49 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
