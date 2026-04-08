@@ -149,6 +149,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/953493884/year.md">
+				github-chapter-2-sandbox
+			</a>
+		</td>
+		<td>
+			2026/4/6 2:03 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/953493884/small/year.png" height="20"> 68
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1025119047/year.md">
 				Heart-Screen
 			</a>
@@ -245,7 +261,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/4/8 2:00 AM UTC</i></small>
+<small><i>Last updated on 2026/4/8 7:13 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
