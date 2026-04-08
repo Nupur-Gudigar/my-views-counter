@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:02 AM UTC
 		</td>
 		<td>
 			79
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:02 AM UTC
 		</td>
 		<td>
 			45
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:02 AM UTC
 		</td>
 		<td>
 			16
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:02 AM UTC
 		</td>
 		<td>
 			17
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:02 AM UTC
 		</td>
 		<td>
 			18
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:02 AM UTC
 		</td>
 		<td>
 			7
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:03 AM UTC
 		</td>
 		<td>
 			3
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:01 AM UTC
+			2026/4/6 2:03 AM UTC
 		</td>
 		<td>
 			2
@@ -149,34 +149,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/953493884/year.md">
-				github-chapter-2-sandbox
-			</a>
-		</td>
-		<td>
-			2026/4/5 2:02 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/953493884/small/year.png" height="20"> 68
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1025119047/year.md">
 				Heart-Screen
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:02 AM UTC
+			2026/4/6 12:00 AM UTC
 		</td>
 		<td>
-			202
+			203
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1025119047/small/year.png" height="20"> 623
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1025119047/small/year.png" height="20"> 624
 		</td>
 	</tr>
 	<tr>
@@ -186,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:02 AM UTC
+			2026/4/6 2:03 AM UTC
 		</td>
 		<td>
 			5
@@ -202,13 +186,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:02 AM UTC
+			2026/4/6 12:00 AM UTC
 		</td>
 		<td>
-			43
+			44
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1042399588/small/year.png" height="20"> 77
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1042399588/small/year.png" height="20"> 78
 		</td>
 	</tr>
 	<tr>
@@ -218,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:02 AM UTC
+			2026/4/6 2:03 AM UTC
 		</td>
 		<td>
 			11
@@ -234,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 2:02 AM UTC
+			2026/4/6 2:03 AM UTC
 		</td>
 		<td>
 			37
@@ -250,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/4/5 12:00 AM UTC
+			2026/4/6 2:04 AM UTC
 		</td>
 		<td>
 			45
@@ -261,7 +245,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/4/7 6:59 PM UTC</i></small>
+<small><i>Last updated on 2026/4/8 2:00 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
