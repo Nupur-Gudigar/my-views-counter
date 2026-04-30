@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter)
 
-### :octocat: [SCM587SP24](https://github.com/Nupur-Gudigar/SCM587SP24)
-![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/777939785/large/year.png)
+### :octocat: [nupur-gudigar-portfolio](https://github.com/Nupur-Gudigar/nupur-gudigar-portfolio)
+![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1222667147/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2026/4/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>29</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2026/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2025/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/4/30 5:03 AM UTC</i></small>
+<small><i>Last updated on 2026/4/30 5:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/777939785/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/777939785/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1222667147/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1222667147/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/777939785/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/777939785/week.md)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1222667147/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1222667147/week.md)
 ```
 ### Header
-# SCM587SP24 [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/777939785/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/777939785/year.md)
+# nupur-gudigar-portfolio [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1222667147/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1222667147/year.md)
 ```readme
-# SCM587SP24 [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/777939785/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/777939785/year.md)
+# nupur-gudigar-portfolio [<img alt="Image of my-views-counter" src="https://github.com/Nupur-Gudigar/my-views-counter/blob/master/graph/1222667147/small/year.png" height="20">](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1222667147/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
