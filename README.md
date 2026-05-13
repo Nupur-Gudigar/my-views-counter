@@ -275,9 +275,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1222667147/small/year.png" height="20"> 211
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1233311957/year.md">
+				cms-anomaly-pipeline
+			</a>
+		</td>
+		<td>
+			2026/5/10 12:00 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1233311957/small/year.png" height="20"> 31
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/5/13 8:39 AM UTC</i></small>
+<small><i>Last updated on 2026/5/13 2:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
