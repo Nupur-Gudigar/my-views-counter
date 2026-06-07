@@ -307,9 +307,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1242868953/small/year.png" height="20"> 69
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1262153053/year.md">
+				ClarifyAI
+			</a>
+		</td>
+		<td>
+			2026/6/4 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1262153053/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/7 7:16 PM UTC</i></small>
+<small><i>Last updated on 2026/6/7 7:51 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
