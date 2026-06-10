@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/953498133/year.md">
-				Project1
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:29 AM UTC
-		</td>
-		<td>
-			79
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/953498133/small/year.png" height="20"> 1085
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/953997944/year.md">
 				Nupur-Gudigar
 			</a>
@@ -133,22 +117,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/954031080/year.md">
-				t-rex-runner
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:30 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/954031080/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/953493884/year.md">
 				github-chapter-2-sandbox
 			</a>
@@ -161,22 +129,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/953493884/small/year.png" height="20"> 68
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1025119047/year.md">
-				Heart-Screen
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:31 AM UTC
-		</td>
-		<td>
-			210
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1025119047/small/year.png" height="20"> 645
 		</td>
 	</tr>
 	<tr>
@@ -275,57 +227,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1222667147/small/year.png" height="20"> 242
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1233311957/year.md">
-				cms-anomaly-pipeline
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:32 AM UTC
-		</td>
-		<td>
-			20
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1233311957/small/year.png" height="20"> 77
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1242868953/year.md">
-				prior-auth-ai-agent
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:32 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1242868953/small/year.png" height="20"> 74
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Nupur-Gudigar/my-views-counter/tree/master/readme/1262153053/year.md">
-				ClarifyAI
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:32 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nupur-Gudigar/my-views-counter/raw/master/graph/1262153053/small/year.png" height="20"> 16
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 9:51 AM UTC</i></small>
+<small><i>Last updated on 2026/6/10 3:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
